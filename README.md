@@ -9,4 +9,4 @@ Please refer to it to learn how to run this application.
 The example has been enhanced to run on IBM Bluemix. Just click on the button
 below to deploy the app directly on Bluemix.
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/Cocomico/chat-example.git # [required])
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/Cocomico/chat-example.git)
