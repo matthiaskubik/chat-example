@@ -1,3 +1,7 @@
+declared-services: 
+    active-deploy: 
+      label: ActiveDeploy
+      plan: free 
 applications:
   - disk_quota: 1024M
     host: chat-example-123
