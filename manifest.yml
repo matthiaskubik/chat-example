@@ -1,5 +1,5 @@
 declared-services: 
-    activedeploy: 
+    ActiveDeploy: 
       label: activedeploy
       plan: free 
 applications:
