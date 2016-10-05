@@ -1,6 +1,6 @@
 declared-services: 
     activedeploy: 
-      label: ActiveDeploy
+      label: activedeploy
       plan: free 
 applications:
   - disk_quota: 1024M
